@@ -100,3 +100,28 @@ C:\Users\Reliance\source\repos\JustApp\LoginApp\obj\Debug\LoginApp.csproj.CopyCo
 C:\Users\Reliance\source\repos\JustApp\LoginApp\obj\Debug\LoginApp.dll
 C:\Users\Reliance\source\repos\JustApp\LoginApp\obj\Debug\LoginApp.pdb
 C:\Users\Reliance\source\repos\JustApp\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\LoginApp.dll.config
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\LoginApp.dll
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\LoginApp.pdb
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\EntityFramework.dll
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\System.Web.Helpers.dll
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\System.Web.Mvc.dll
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\System.Web.Razor.dll
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\System.Web.Webpages.dll
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\EntityFramework.xml
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\System.Web.Razor.xml
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\System.Web.Webpages.xml
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\System.Web.Helpers.xml
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\System.Web.Mvc.xml
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\obj\Debug\LoginApp.csproj.CopyComplete
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\obj\Debug\LoginApp.dll
+C:\Users\Enoch France\Source\Repos\JustApp\LoginApp\obj\Debug\LoginApp.pdb
